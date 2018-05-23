@@ -1,0 +1,12 @@
+
+*.pyc
+theswarm.txt
+*.swp
+/.idea
+build
+MANIFEST
+dist
+env
+launch.json
+tasks.json
+data.json
